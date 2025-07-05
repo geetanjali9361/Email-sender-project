@@ -1,7 +1,9 @@
 # Email Service Project
 
 ## Description
-A robust email service application that handles email sending with automatic failover between SendGrid and Nodemailer. The service includes database operations using Sequelize and provides reliable email delivery with backup mechanisms.
+A robust and lightweight email service built with Node.js, designed to automate email delivery to clients with a built-in failover mechanism between SendGrid and Nodemailer. The system ensures reliable communication through effective error handling, logging, and retry logic. Ideal for B2B/B2C businesses where efficient and dependable client communication is crucial.
+
+
 
 ---
 
